@@ -3,3 +3,4 @@ second input
 dev modify add master and feature1
 fix issue
 dev one
+modify remotely
